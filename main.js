@@ -4,10 +4,10 @@ var totalSlides = carouselImages.length;
 var leftMovement = 0;
 var setTimeout;
 
-// function autoplay(){
-// 	setInterval (function (){
-// 		$("#right-arrow").click()}, 3000);
-// 	}
+function autoplay(){
+	setInterval (function (){
+		$("#right-arrow").click()}, 3000);
+	}
 
 
 
